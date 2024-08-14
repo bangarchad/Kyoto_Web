@@ -1,0 +1,216 @@
+.navbar-custom {
+    background-color: #6cb243; /* Adjusted green color */
+}
+.navbar-nav .nav-link {
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    margin-right: 20px;
+    font-family: 'Poppins';
+}
+.navbar-nav .nav-link:hover {
+    color: #f8f9fa; /* Optional: Slightly different color on hover */
+}
+.navbar-nav .nav-item:last-child .nav-link {
+    margin-right: 0;
+}
+.booking-section {
+    background-color: #e0e0e0; /* Light gray background */
+    padding: 50px 0;
+}
+.booking-section label{
+    font-weight:500;
+}
+.booking-form {
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-radius: 30px;
+    max-width: 400px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.booking-form input {
+    margin-bottom: 10px;    
+}
+.booking-form button {
+    background-color: #6cb243; /* Green button */
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: #60A536; /* Latar belakang header */
+}
+.navbar-brand, .nav-link {
+    color: #FFFFFF; /* Warna teks */
+    font-family:'Poopins';
+}
+.nav-link:hover {
+    color: #e0e0e0; /* Warna teks saat hover */
+}
+
+.wide-container {
+    min-width: 300px; /* Menetapkan lebar minimum agar teks tidak terpotong */
+    max-width: 88%; /* Mengizinkan kontainer untuk memperluas hingga lebar penuh kolom */
+}
+
+.text-center-2 {
+    color: #60A536;
+    font-weight: 500;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.about-beranda {
+    margin-top: 100px;
+}
+
+.about-beranda h2 {
+    margin-left: 190px;
+    color:#60A536;
+}
+
+.about-cocok {
+    margin-top: 50px;
+}
+
+.about-cocok h2 {
+    margin-bottom: 50px;
+    color: #60A536;
+}
+
+.about-cocok3 h4 {
+    color: #60A536;
+    margin-top: -525px;
+    margin-left: 605px;
+}
+
+.about-cocok3 p {
+    text-align: justify;
+    margin-left: 605px;
+}
+
+.about-cocok .about-cocok2 {
+    margin-top: 30px;
+    margin-left: -10px;
+}
+
+.limited-text {
+    min-width: 300px; /* Sesuaikan nilai max-width agar sesuai dengan kalimat pertama */
+    max-width: 83%;
+}
+
+.p-suasana {
+    text-align: justify;
+    font-size: 17px;
+    margin-left: 20px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.booking-kilas {
+    background-color: #e0e0e0; /* Light gray background */
+    padding: 100px 0;
+    margin-top: 50px;
+}
+
+.booking-kilas h2 {
+    color: #60A536;
+    margin-bottom: 50px;
+}
+
+.booking-kilas .column-content {
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #60A536; 
+    border-radius: 30px; 
+    display: grid; 
+    place-items: center;
+}
+
+.booking-kilas .column-content .p {
+    color: #FFFFFF;
+}
+
+.footer-1 {
+    background-color: #60A536; /* Light gray background */
+    font-family: 'Salsa';
+    padding: 50px 0;
+    margin-top: 50px;
+}
+
+.footer-1 h2 {
+    margin-bottom: 25px;
+    color: #FFFFFF;
+    font-size: 48px;
+}
+
+.footer-1 a i {
+    color: #FFFFFF;
+    font-size: 50px;
+}
+
+.footer-1 h5 {
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: 'Poopins';
+}
+
+.footer-2 {
+    background-color: #e0e0e0   ; /* Light gray background */
+    font-family: 'Poopins';
+    padding: 5px 0;
+}
+
+.footer-2 h5 {
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 200;
+    font-family: 'Poopins';
+}
+
+ul li {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.p-akomodasi {
+    text-align: justify;
+    font-size: 20px;
+}
+
+.section-akomodasi-image {
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+
+.p-eksterior {
+    color:#60A536;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.section-galeri-image {
+    margin-bottom: 0px;
+}
+
+.about-profil {
+    margin-top: 50px;
+}
+
+.about-profil h2 {
+    margin-bottom: 50px;
+    color: #60A536;
+}
+
+.about-profil p {
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.about-profil-2 {
+    margin-top: 50px;
+}
