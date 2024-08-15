@@ -16,7 +16,7 @@
 }
 .booking-section {
     background-color: #e0e0e0; /* Light gray background */
-    padding: 50px 0;
+    padding: 30px 0;
 }
 .booking-section label{
     font-weight:500;
@@ -213,4 +213,13 @@ ul li {
 
 .about-profil-2 {
     margin-top: 50px;
+}
+
+.section-lokasi {
+    margin-top: 50px;
+}
+
+.section-lokasi h2 {
+    color: #60A536;
+    margin-bottom: 50px;
 }
